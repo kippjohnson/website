@@ -86,7 +86,7 @@ author:
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=MjdEQDwAAAAJ&hl=en&authuser=1"
   email            : "kipp.johnson@icahn.mssm.edu"
-  uri              : "https://kippjohnson.com"
+  uri              : # already here... "https://kippjohnson.com"
   bitbucket        :
   codepen          :
   dribbble         :
