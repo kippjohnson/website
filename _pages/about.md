@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-# Research in precision cardiovascular medicine
-# ======
+<!---
+Research in precision cardiovascular medicine
+======
+--->
 
 *This website is currently under construction!*
 
