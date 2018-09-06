@@ -50,13 +50,13 @@ make.markdown <- function(x){
   writeLines(paste0("venue: ", qs(x$journal)))
   writeLines(paste0("paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/", x$pmid, "'"))
   writeLines(paste0("citation: ",
-                    "'",
+                    '"',
                     x$authors.bold,
                     " ",
                     x$citation,
                     " PubMed ID: ",
                     x$pmid,
-                    "'"))
+                    '"'))
   writeLines("---")
   writeLines("")
   writeLines(paste0("[PubMed Link]", "(","https://www.ncbi.nlm.nih.gov/pubmed/",x$pmid,")"))
