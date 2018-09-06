@@ -49,7 +49,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : NsIBI2hpIC9dQA3FziJRawf09p8ity3CWGIIprUL2Nc
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :

@@ -11,7 +11,7 @@ ol {
 }
 ol p {
  color: #696969;
- font-size: 1em
+ font-size: 1em;
 }
 </style>
 
