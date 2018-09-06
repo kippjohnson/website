@@ -180,7 +180,7 @@ collections:
     output: false # changed from true
     permalink: /:collection/:path/
   talks:
-    output: false # changed from true
+    output: true # changed from true
     permalink: /:collection/:path/
 
 

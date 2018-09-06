@@ -1,0 +1,1747 @@
+PMID- 30166084
+OWN - NLM
+STAT- Publisher
+LR  - 20180901
+IS  - 1558-3597 (Electronic)
+IS  - 0735-1097 (Linking)
+DP  - 2018 Aug 27
+TI  - Pathology of Peripheral Artery Disease in Critical Limb Ischemia.
+LID - S0735-1097(18)35754-1 [pii]
+LID - 10.1016/j.jacc.2018.08.002 [doi]
+AB  - BACKGROUND: Critical limb ischemia (CLI) is the most serious complication of
+      peripheral artery disease (PAD). OBJECTIVES: The purpose of this study was to
+      characterize pathology of PAD in below- and above-knee amputation specimens in
+      patients presenting with CLI. METHODS: Peripheral arteries from 95 patients (121 
+      amputation specimens) were examined; 75 patients had presented with CLI, and the 
+      remaining 20 had amputations performed for other reasons. The pathological
+      characteristics were separately recorded for femoral and popliteal arteries
+      (FEM-POP), and infrapopliteal arteries (INFRA-POP). RESULTS: A total of 299
+      arteries were examined. In the 239 arteries from CLI patients, atherosclerotic
+      plaques were more frequent in FEM-POP (23 of 34, 67.6%) compared with INFRA-POP
+      (79 of 205, 38.5%) arteries. Of these 239 arteries, 165 (69%) showed >/=70%
+      stenosis, which was due to significant pathological intimal thickening,
+      fibroatheroma, fibrocalcific lesions, or restenosis in 45 of 165 (27.3%), or was 
+      due to luminal thrombi with (39 of 165, 23.6%) or without (81 of 165, 49.1%)
+      significant atherosclerotic lesions. Presence of chronic luminal thrombi was more
+      frequently observed in arteries with insignificant atherosclerosis (OR: 16.7; p =
+      0.0002), more so in INFRA-POP compared with FEM-POP (OR: 2.14; p = 0.0041)
+      arteries. Acute thrombotic occlusion was less frequently encountered in INFRA-POP
+      than FEM-POP arteries (OR: 0.27; p = 0.0067). Medial calcification was present in
+      170 of 239 (71.1%) large arteries. CONCLUSIONS: Thrombotic luminal occlusion
+      associated with insignificant atherosclerosis is commonly observed in CLI and
+      suggests the possibility of thromboembolic disease. The pathological
+      characteristics of arteries in CLI suggest possible mechanisms of progression of 
+      PAD to CLI, especially in INFRA-POP arteries, and may support the preventive role
+      of antithrombotic agents.
+CI  - Copyright (c) 2018. Published by Elsevier Inc.
+FAU - Narula, Navneet
+AU  - Narula N
+AD  - New York Presbyterian Hospital and Weill Cornell Medicine, New York, New York;
+      NYU Langone Medical Center, New York, New York. Electronic address:
+      navneet.narula@nyumc.org.
+FAU - Dannenberg, Andrew J
+AU  - Dannenberg AJ
+AD  - New York Presbyterian Hospital and Weill Cornell Medicine, New York, New York.
+FAU - Olin, Jeffrey W
+AU  - Olin JW
+AD  - Mount Sinai Heart and Icahn School of Medicine at Mount Sinai, New York, New
+      York.
+FAU - Bhatt, Deepak L
+AU  - Bhatt DL
+AD  - Brigham & Women's Hospital and Harvard Medical School, Boston, Massachusettes.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+AD  - Mount Sinai Heart and Icahn School of Medicine at Mount Sinai, New York, New
+      York.
+FAU - Nadkarni, Girish
+AU  - Nadkarni G
+AD  - Mount Sinai Heart and Icahn School of Medicine at Mount Sinai, New York, New
+      York.
+FAU - Min, James
+AU  - Min J
+AD  - New York Presbyterian Hospital and Weill Cornell Medicine, New York, New York.
+FAU - Torii, Sho
+AU  - Torii S
+AD  - Cardiovascular Pathology Inc., Gaithersburg, Maryland.
+FAU - Poojary, Priti
+AU  - Poojary P
+AD  - Mount Sinai Heart and Icahn School of Medicine at Mount Sinai, New York, New
+      York.
+FAU - Anand, Sonia S
+AU  - Anand SS
+AD  - Population Health Research Institute and McMaster University, Hamilton, Ontario, 
+      Canada.
+FAU - Bax, Jeroen J
+AU  - Bax JJ
+AD  - Leiden University Medical Center, Leiden, the Netherlands.
+FAU - Yusuf, Salim
+AU  - Yusuf S
+AD  - Population Health Research Institute and McMaster University, Hamilton, Ontario, 
+      Canada.
+FAU - Virmani, Renu
+AU  - Virmani R
+AD  - Cardiovascular Pathology Inc., Gaithersburg, Maryland.
+FAU - Narula, Jagat
+AU  - Narula J
+AD  - Mount Sinai Heart and Icahn School of Medicine at Mount Sinai, New York, New
+      York.
+LA  - eng
+PT  - Journal Article
+DEP - 20180827
+PL  - United States
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+OTO - NOTNLM
+OT  - DOAC
+OT  - amputation
+OT  - atherosclerosis
+OT  - calciphylaxis
+OT  - gangrene
+OT  - revascularization
+OT  - thromboembolism
+OT  - vascular calcification
+EDAT- 2018/09/01 06:00
+MHDA- 2018/09/01 06:00
+CRDT- 2018/09/01 06:00
+PHST- 2018/07/28 00:00 [received]
+PHST- 2018/08/01 00:00 [revised]
+PHST- 2018/08/01 00:00 [accepted]
+PHST- 2018/09/01 06:00 [pubmed]
+PHST- 2018/09/01 06:00 [medline]
+PHST- 2018/09/01 06:00 [entrez]
+AID - S0735-1097(18)35754-1 [pii]
+AID - 10.1016/j.jacc.2018.08.002 [doi]
+PST - aheadofprint
+SO  - J Am Coll Cardiol. 2018 Aug 27. pii: S0735-1097(18)35754-1. doi:
+      10.1016/j.jacc.2018.08.002.
+
+PMID- 30145101
+OWN - NLM
+STAT- Publisher
+LR  - 20180826
+IS  - 1873-2518 (Electronic)
+IS  - 0264-410X (Linking)
+DP  - 2018 Aug 22
+TI  - Incidence and aetiology of bacterial meningitis among children aged 1-59months in
+      South Asia: systematic review and meta-analysis.
+LID - S0264-410X(18)31006-5 [pii]
+LID - 10.1016/j.vaccine.2018.07.037 [doi]
+AB  - BACKGROUND: Bacterial meningitis is a significant cause of morbidity and
+      mortality worldwide among children aged 1-59months. We aimed to describe its
+      burden in South Asia, focusing on vaccine-preventable aetiologies. METHODS: We
+      searched five databases for studies published from January 1, 1990, to April 25, 
+      2017. We estimated incidence and aetiology-specific proportions using
+      random-effects meta-analysis. In secondary analyses, we described vaccine impact 
+      and pneumococcal meningitis serotypes. RESULTS: We included 48 articles
+      cumulatively reporting 20,707 cases from 1987 to 2013. Mean annual incidence was 
+      105 (95% confidence interval [CI], 53-173) cases per 100,000 children. On
+      average, Haemophilus influenzae type b (Hib) accounted for 13% (95% CI, 8-19%) of
+      cases, pneumococcus for 10% (95% CI, 6-15%), and meningococcus for 1% (95% CI,
+      0-2%). These meta-analyses had substantial between-study heterogeneity (I(2)>78%,
+      P<0.0001). Among studies reporting only confirmed cases, these three bacteria
+      caused a median of 78% cases (IQR, 50-87%). Hib meningitis incidence declined by 
+      72-83% at sentinel hospitals in Pakistan and Bangladesh, respectively, within two
+      years of implementing nationwide vaccination. On average, PCV10 covered 49% (95% 
+      CI, 39-58%), PCV13 covered 51% (95% CI, 40-61%), and PPSV23 covered 74% (95% CI, 
+      67-80%) of pneumococcal meningitis serotypes. Lower PCV10 and PCV13 serotype
+      coverage in Bangladesh was associated with higher prevalence of serotype 2,
+      compared to India and Pakistan. CONCLUSIONS: South Asia has relatively high
+      incidence of bacterial meningitis among children aged 1-59months, with
+      vaccine-preventable bacteria causing a substantial proportion. These estimates
+      are likely underestimates due to multiple epidemiological and microbiological
+      factors. Further research on vaccine impact and distribution of pneumococcal
+      serotypes will inform vaccine policymaking and implementation.
+CI  - Copyright (c) 2018 Elsevier Ltd. All rights reserved.
+FAU - Ali, Mohsin
+AU  - Ali M
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New
+      York, USA.
+FAU - Chang, Brian A
+AU  - Chang BA
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New
+      York, USA.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+AD  - Department of Medical Education, Icahn School of Medicine at Mount Sinai, New
+      York, USA; Institute for Next Generation Healthcare, Icahn Institute for Genetics
+      and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, USA.
+FAU - Morris, Shaun K
+AU  - Morris SK
+AD  - Division of Infectious Diseases, Hospital for Sick Children, Toronto, Canada;
+      Centre for Global Child Health, Hospital for Sick Children Research Institute,
+      Toronto, Canada; Department of Paediatrics, University of Toronto, Toronto,
+      Canada. Electronic address: shaun.morris@sickkids.ca.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180822
+PL  - Netherlands
+TA  - Vaccine
+JT  - Vaccine
+JID - 8406899
+OTO - NOTNLM
+OT  - Aetiology
+OT  - Bacterial meningitis
+OT  - Bangladesh
+OT  - Bhutan
+OT  - Epidemiology
+OT  - Haemophilus influenzae type b
+OT  - Incidence
+OT  - India
+OT  - Meta-analysis
+OT  - Neisseria meningitidis
+OT  - Nepal
+OT  - Pakistan
+OT  - South Asia
+OT  - Sri Lanka
+OT  - Streptococcus pneumoniae
+OT  - Systematic review
+EDAT- 2018/08/27 06:00
+MHDA- 2018/08/27 06:00
+CRDT- 2018/08/27 06:00
+PHST- 2018/04/05 00:00 [received]
+PHST- 2018/06/22 00:00 [revised]
+PHST- 2018/07/15 00:00 [accepted]
+PHST- 2018/08/27 06:00 [entrez]
+PHST- 2018/08/27 06:00 [pubmed]
+PHST- 2018/08/27 06:00 [medline]
+AID - S0264-410X(18)31006-5 [pii]
+AID - 10.1016/j.vaccine.2018.07.037 [doi]
+PST - aheadofprint
+SO  - Vaccine. 2018 Aug 22. pii: S0264-410X(18)31006-5. doi:
+      10.1016/j.vaccine.2018.07.037.
+
+PMID- 28200013
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20180816
+IS  - 1477-4054 (Electronic)
+IS  - 1467-5463 (Linking)
+VI  - 19
+IP  - 4
+DP  - 2018 Jul 20
+TI  - Systematic analyses of drugs and disease indications in RepurposeDB reveal
+      pharmacological, biological and epidemiological factors influencing drug
+      repositioning.
+PG  - 656-678
+LID - 10.1093/bib/bbw136 [doi]
+AB  - Increase in global population and growing disease burden due to the emergence of 
+      infectious diseases (Zika virus), multidrug-resistant pathogens, drug-resistant
+      cancers (cisplatin-resistant ovarian cancer) and chronic diseases (arterial
+      hypertension) necessitate effective therapies to improve health outcomes.
+      However, the rapid increase in drug development cost demands innovative and
+      sustainable drug discovery approaches. Drug repositioning, the discovery of new
+      or improved therapies by reevaluation of approved or investigational compounds,
+      solves a significant gap in the public health setting and improves the
+      productivity of drug development. As the number of drug repurposing
+      investigations increases, a new opportunity has emerged to understand factors
+      driving drug repositioning through systematic analyses of drugs, drug targets and
+      associated disease indications. However, such analyses have so far been hampered 
+      by the lack of a centralized knowledgebase, benchmarking data sets and reporting 
+      standards. To address these knowledge and clinical needs, here, we present
+      RepurposeDB, a collection of repurposed drugs, drug targets and diseases, which
+      was assembled, indexed and annotated from public data. RepurposeDB combines
+      information on 253 drugs [small molecules (74.30%) and protein drugs (25.29%)]
+      and 1125 diseases. Using RepurposeDB data, we identified pharmacological
+      (chemical descriptors, physicochemical features and absorption, distribution,
+      metabolism, excretion and toxicity properties), biological (protein domains,
+      functional process, molecular mechanisms and pathway cross talks) and
+      epidemiological (shared genetic architectures, disease comorbidities and clinical
+      phenotype similarities) factors mediating drug repositioning. Collectively,
+      RepurposeDB is developed as the reference database for drug repositioning
+      investigations. The pharmacological, biological and epidemiological principles of
+      drug repositioning identified from the meta-analyses could augment therapeutic
+      development.
+FAU - Shameer, Khader
+AU  - Shameer K
+AD  - Institute of Next Generation Healthcare, Mount Sinai Health System, New York, NY,
+      USA.
+FAU - Glicksberg, Benjamin S
+AU  - Glicksberg BS
+AD  - Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York, NY,
+      USA.
+FAU - Hodos, Rachel
+AU  - Hodos R
+AD  - Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York, NY,
+      USA.
+AD  - New York University, New York, NY, USA.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+AD  - Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York, NY,
+      USA.
+FAU - Badgeley, Marcus A
+AU  - Badgeley MA
+AD  - Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York, NY,
+      USA.
+FAU - Readhead, Ben
+AU  - Readhead B
+AD  - Institute of Next Generation Healthcare, Mount Sinai Health System, New York, NY,
+      USA.
+FAU - Tomlinson, Max S
+AU  - Tomlinson MS
+AD  - Institute of Next Generation Healthcare, Mount Sinai Health System, New York, NY,
+      USA.
+FAU - O'Connor, Timothy
+AU  - O'Connor T
+AD  - Boston College, Boston, MA, USA.
+FAU - Miotto, Riccardo
+AU  - Miotto R
+AD  - Institute of Next Generation Healthcare, Mount Sinai Health System, New York, NY,
+      USA.
+FAU - Kidd, Brian A
+AU  - Kidd BA
+AD  - Institute of Next Generation Healthcare, Mount Sinai Health System, New York, NY,
+      USA.
+FAU - Chen, Rong
+AU  - Chen R
+AD  - Clinical Genome Informatics, Icahn Institute of Genetics and Multiscale Biology, 
+      Mount Sinai Health System, New York, NY.
+FAU - Ma'ayan, Avi
+AU  - Ma'ayan A
+AD  - Mount Sinai Center for Bioinformatics, Mount Sinai Health System, New York, NY.
+FAU - Dudley, Joel T
+AU  - Dudley JT
+AD  - Institute of Next Generation Healthcare, Mount Sinai Health System, New York, NY,
+      USA.
+AD  - Department of Genetics and Genomic Sciences, Mount Sinai Health System, New York,
+      NY, USA.
+AD  - Department of Population Health Science and Policy, Mount Sinai Health System,
+      New York, NY, USA.
+AD  - Director of Biomedical Informatics, Icahn School of Medicine at Mount Sinai,
+      Mount Sinai Health System, New York, NY.
+LA  - eng
+GR  - P30 ES023515/ES/NIEHS NIH HHS/United States
+GR  - R01 DK098242/DK/NIDDK NIH HHS/United States
+GR  - U54 CA189201/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PL  - England
+TA  - Brief Bioinform
+JT  - Briefings in bioinformatics
+JID - 100912837
+EDAT- 2017/02/16 06:00
+MHDA- 2017/02/16 06:00
+CRDT- 2017/02/16 06:00
+PHST- 2016/08/19 00:00 [received]
+PHST- 2017/02/16 06:00 [pubmed]
+PHST- 2017/02/16 06:00 [medline]
+PHST- 2017/02/16 06:00 [entrez]
+AID - 2997208 [pii]
+AID - 10.1093/bib/bbw136 [doi]
+PST - ppublish
+SO  - Brief Bioinform. 2018 Jul 20;19(4):656-678. doi: 10.1093/bib/bbw136.
+
+PMID- 29945951
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20180627
+IS  - 1468-201X (Electronic)
+IS  - 1355-6037 (Linking)
+VI  - 104
+IP  - 14
+DP  - 2018 Jul
+TI  - The whole is greater than the sum of its parts: combining classical statistical
+      and machine intelligence methods in medicine.
+PG  - 1228
+LID - 10.1136/heartjnl-2018-313377 [doi]
+FAU - Shameer, Khader
+AU  - Shameer K
+AD  - Department of Information Services, Center for Research Informatics and
+      Innovation, Northwell Health, New Hyde Park, New York, USA.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genomics and
+      Multiscale Biology, Institute for Next Generation Healthcare, Mount Sinai Health 
+      System, Icahn School of Medicine at Mount Sinai, New York City, New York, USA.
+FAU - Glicksberg, Benjamin S
+AU  - Glicksberg BS
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genomics and
+      Multiscale Biology, Institute for Next Generation Healthcare, Mount Sinai Health 
+      System, Icahn School of Medicine at Mount Sinai, New York City, New York, USA.
+FAU - Dudley, Joel T
+AU  - Dudley JT
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genomics and
+      Multiscale Biology, Institute for Next Generation Healthcare, Mount Sinai Health 
+      System, Icahn School of Medicine at Mount Sinai, New York City, New York, USA.
+FAU - Sengupta, Partho P
+AU  - Sengupta PP
+AD  - Division of Cardiology, West Virginia Heart and Vascular Institute, Morgantown,
+      West Virginia, USA.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Heart
+JT  - Heart (British Cardiac Society)
+JID - 9602087
+OTO - NOTNLM
+OT  - cardiac imaging and diagnostics
+OT  - heart disease
+COIS- Competing interests: None declared.
+EDAT- 2018/06/28 06:00
+MHDA- 2018/06/28 06:00
+CRDT- 2018/06/28 06:00
+PHST- 2018/06/28 06:00 [entrez]
+PHST- 2018/06/28 06:00 [pubmed]
+PHST- 2018/06/28 06:00 [medline]
+AID - heartjnl-2018-313377 [pii]
+AID - 10.1136/heartjnl-2018-313377 [doi]
+PST - ppublish
+SO  - Heart. 2018 Jul;104(14):1228. doi: 10.1136/heartjnl-2018-313377.
+
+PMID- 29352006
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20180627
+IS  - 1468-201X (Electronic)
+IS  - 1355-6037 (Linking)
+VI  - 104
+IP  - 14
+DP  - 2018 Jul
+TI  - Machine learning in cardiovascular medicine: are we there yet?
+PG  - 1156-1164
+LID - 10.1136/heartjnl-2017-311198 [doi]
+AB  - Artificial intelligence (AI) broadly refers to analytical algorithms that
+      iteratively learn from data, allowing computers to find hidden insights without
+      being explicitly programmed where to look. These include a family of operations
+      encompassing several terms like machine learning, cognitive learning, deep
+      learning and reinforcement learning-based methods that can be used to integrate
+      and interpret complex biomedical and healthcare data in scenarios where
+      traditional statistical methods may not be able to perform. In this review
+      article, we discuss the basics of machine learning algorithms and what potential 
+      data sources exist; evaluate the need for machine learning; and examine the
+      potential limitations and challenges of implementing machine in the context of
+      cardiovascular medicine. The most promising avenues for AI in medicine are the
+      development of automated risk prediction algorithms which can be used to guide
+      clinical care; use of unsupervised learning techniques to more precisely
+      phenotype complex disease; and the implementation of reinforcement learning
+      algorithms to intelligently augment healthcare providers. The utility of a
+      machine learning-based predictive model will depend on factors including data
+      heterogeneity, data depth, data breadth, nature of modelling task, choice of
+      machine learning and feature selection algorithms, and orthogonal evidence. A
+      critical understanding of the strength and limitations of various methods and
+      tasks amenable to machine learning is vital. By leveraging the growing corpus of 
+      big data in medicine, we detail pathways by which machine learning may facilitate
+      optimal development of patient-specific models for improving diagnoses,
+      intervention and outcome in cardiovascular medicine.
+CI  - (c) Article author(s) (or their employer(s) unless otherwise stated in the text
+      of the article) 2018. All rights reserved. No commercial use is permitted unless 
+      otherwise expressly granted.
+FAU - Shameer, Khader
+AU  - Shameer K
+AD  - Departments of Medical Informatics and Research Informatics, Northwell Health,
+      Great Neck, New York, USA.
+AD  - Institute for Next Generation Healthcare, Mount Sinai Health System, New York
+      City, New York, USA.
+AD  - Icahn Institute for Genomics and Multiscale Biology, Mount Sinai Health System,
+      New York City, New York, USA.
+AD  - Department of Genetics and Genomic Sciences, Mount Sinai Health System, New York 
+      City, New York, USA.
+AD  - Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York
+      City, New York, USA.
+AD  - Center for Research Informatics and Innovation, Northwell Health, New Hyde Park, 
+      NY, USA.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+AD  - Institute for Next Generation Healthcare, Mount Sinai Health System, New York
+      City, New York, USA.
+AD  - Icahn Institute for Genomics and Multiscale Biology, Mount Sinai Health System,
+      New York City, New York, USA.
+AD  - Department of Genetics and Genomic Sciences, Mount Sinai Health System, New York 
+      City, New York, USA.
+AD  - Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York
+      City, New York, USA.
+FAU - Glicksberg, Benjamin S
+AU  - Glicksberg BS
+AD  - Institute for Next Generation Healthcare, Mount Sinai Health System, New York
+      City, New York, USA.
+AD  - Icahn Institute for Genomics and Multiscale Biology, Mount Sinai Health System,
+      New York City, New York, USA.
+AD  - Department of Genetics and Genomic Sciences, Mount Sinai Health System, New York 
+      City, New York, USA.
+AD  - Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York
+      City, New York, USA.
+AD  - Institute for Computational Health Sciences, University of California, San
+      Francisco, San Francisco, California, USA.
+FAU - Dudley, Joel T
+AU  - Dudley JT
+AD  - Institute for Next Generation Healthcare, Mount Sinai Health System, New York
+      City, New York, USA.
+AD  - Icahn Institute for Genomics and Multiscale Biology, Mount Sinai Health System,
+      New York City, New York, USA.
+AD  - Department of Genetics and Genomic Sciences, Mount Sinai Health System, New York 
+      City, New York, USA.
+AD  - Icahn School of Medicine at Mount Sinai, Mount Sinai Health System, New York
+      City, New York, USA.
+FAU - Sengupta, Partho P
+AU  - Sengupta PP
+AD  - Division of Cardiology, West Virginia Heart and Vascular Institute, Morgantown,
+      West Virginia, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180119
+PL  - England
+TA  - Heart
+JT  - Heart (British Cardiac Society)
+JID - 9602087
+OTO - NOTNLM
+OT  - heart disease
+COIS- Competing interests: PPS is a consultant for TeleHealthRobotics, HeartSciences
+      and Hitachi-Aloka. JTD has received consulting fees or honoraria from Janssen
+      Pharmaceuticals, GlaxoSmithKline, AstraZeneca and Hoffman-La Roche. JTD is a
+      scientific advisor to LAM Therapeutics and holds equity in NuMedii, Ayasdi and
+      Ontomics. KS has received consulting fees or honoraria from Philips Healthcare,
+      Google, LEK Consulting and Parthenon-EY. All other authors declare no competing
+      interests.
+EDAT- 2018/01/21 06:00
+MHDA- 2018/01/21 06:00
+CRDT- 2018/01/21 06:00
+PHST- 2017/07/10 00:00 [received]
+PHST- 2017/12/19 00:00 [revised]
+PHST- 2017/12/21 00:00 [accepted]
+PHST- 2018/01/21 06:00 [pubmed]
+PHST- 2018/01/21 06:00 [medline]
+PHST- 2018/01/21 06:00 [entrez]
+AID - heartjnl-2017-311198 [pii]
+AID - 10.1136/heartjnl-2017-311198 [doi]
+PST - ppublish
+SO  - Heart. 2018 Jul;104(14):1156-1164. doi: 10.1136/heartjnl-2017-311198. Epub 2018
+      Jan 19.
+
+PMID- 29880128
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20180608
+IS  - 1558-3597 (Electronic)
+IS  - 0735-1097 (Linking)
+VI  - 71
+IP  - 23
+DP  - 2018 Jun 12
+TI  - Artificial Intelligence in Cardiology.
+PG  - 2668-2679
+LID - S0735-1097(18)34408-5 [pii]
+LID - 10.1016/j.jacc.2018.03.521 [doi]
+AB  - Artificial intelligence and machine learning are poised to influence nearly every
+      aspect of the human condition, and cardiology is not an exception to this trend. 
+      This paper provides a guide for clinicians on relevant aspects of artificial
+      intelligence and machine learning, reviews selected applications of these methods
+      in cardiology to date, and identifies how cardiovascular medicine could
+      incorporate artificial intelligence in the future. In particular, the paper first
+      reviews predictive modeling concepts relevant to cardiology such as feature
+      selection and frequent pitfalls such as improper dichotomization. Second, it
+      discusses common algorithms used in supervised learning and reviews selected
+      applications in cardiology and related disciplines. Third, it describes the
+      advent of deep learning and related methods collectively called unsupervised
+      learning, provides contextual examples both in general medicine and in
+      cardiovascular medicine, and then explains how these methods could be applied to 
+      enable precision cardiology and improve patient outcomes.
+CI  - Copyright (c) 2018 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+AD  - Institute for Next Generation Healthcare, Mount Sinai Health System, New York,
+      New York; Department of Genetics and Genomic Sciences, Icahn School of Medicine
+      at Mount Sinai, New York, New York.
+FAU - Torres Soto, Jessica
+AU  - Torres Soto J
+AD  - Division of Cardiovascular Medicine, Stanford University, Palo Alto, California; 
+      Departments of Medicine, Genetics, and Biomedical Data Science, Stanford
+      University, Palo Alto, California; Center for Inherited Cardiovascular Disease,
+      Stanford University, Palo Alto, California.
+FAU - Glicksberg, Benjamin S
+AU  - Glicksberg BS
+AD  - Institute for Next Generation Healthcare, Mount Sinai Health System, New York,
+      New York; Department of Genetics and Genomic Sciences, Icahn School of Medicine
+      at Mount Sinai, New York, New York; Institute for Computational Health Sciences, 
+      University of California, San Francisco, California.
+FAU - Shameer, Khader
+AU  - Shameer K
+AD  - Department of Information Services, Center for Research Informatics and
+      Innovation, Northwell Health, New Hyde Park, New York.
+FAU - Miotto, Riccardo
+AU  - Miotto R
+AD  - Institute for Next Generation Healthcare, Mount Sinai Health System, New York,
+      New York; Department of Genetics and Genomic Sciences, Icahn School of Medicine
+      at Mount Sinai, New York, New York.
+FAU - Ali, Mohsin
+AU  - Ali M
+AD  - Institute for Next Generation Healthcare, Mount Sinai Health System, New York,
+      New York; Department of Genetics and Genomic Sciences, Icahn School of Medicine
+      at Mount Sinai, New York, New York.
+FAU - Ashley, Euan
+AU  - Ashley E
+AD  - Division of Cardiovascular Medicine, Stanford University, Palo Alto, California; 
+      Departments of Medicine, Genetics, and Biomedical Data Science, Stanford
+      University, Palo Alto, California; Center for Inherited Cardiovascular Disease,
+      Stanford University, Palo Alto, California.
+FAU - Dudley, Joel T
+AU  - Dudley JT
+AD  - Institute for Next Generation Healthcare, Mount Sinai Health System, New York,
+      New York; Department of Genetics and Genomic Sciences, Icahn School of Medicine
+      at Mount Sinai, New York, New York. Electronic address: joel.dudley@mssm.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - cardiology
+OT  - machine learning
+OT  - precision medicine
+EDAT- 2018/06/09 06:00
+MHDA- 2018/06/09 06:00
+CRDT- 2018/06/09 06:00
+PHST- 2017/09/12 00:00 [received]
+PHST- 2018/03/01 00:00 [revised]
+PHST- 2018/03/05 00:00 [accepted]
+PHST- 2018/06/09 06:00 [entrez]
+PHST- 2018/06/09 06:00 [pubmed]
+PHST- 2018/06/09 06:00 [medline]
+AID - S0735-1097(18)34408-5 [pii]
+AID - 10.1016/j.jacc.2018.03.521 [doi]
+PST - ppublish
+SO  - J Am Coll Cardiol. 2018 Jun 12;71(23):2668-2679. doi: 10.1016/j.jacc.2018.03.521.
+
+PMID- 29888052
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20180615
+IS  - 2153-4063 (Print)
+VI  - 2017
+DP  - 2018
+TI  - A Network-Biology Informed Computational Drug Repositioning Strategy to Target
+      Disease Risk Trajectories and Comorbidities of Peripheral Artery Disease.
+PG  - 108-117
+AB  - Currently, drug discovery approaches focus on the design of therapies that
+      alleviate an index symptom by reengineering the underlying biological mechanism
+      in agonistic or antagonistic fashion. For example, medicines are routinely
+      developed to target an essential gene that drives the disease mechanism.
+      Therapeutic overloading where patients get multiple medications to reduce the
+      primary and secondary side effect burden is standard practice. This
+      single-symptom based approach may not be scalable, as we understand that diseases
+      are more connected than random and molecular interactions drive disease
+      comorbidities. In this work, we present a proof-of-concept drug discovery
+      strategy by combining network biology, disease comorbidity estimates, and
+      computational drug repositioning, by targeting the risk factors and comorbidities
+      of peripheral artery disease, a vascular disease associated with high morbidity
+      and mortality. Individualized risk estimation and recommending disease sequelae
+      based therapies may help to lower the mortality and morbidity of peripheral
+      artery disease.
+FAU - Shameer, Khader
+AU  - Shameer K
+AD  - Department of Genetics and Genomics, Icahn Institute of Genomics and Multiscale
+      Biology, Institute of Next Generation Healthcare, Icahn School of Medicine at
+      Mount Sinai, Mount Sinai Health System, New York, NY.
+AD  - Departments of Medical Informatics and Research Informatics; Centre for Research 
+      Informatics and Innovation, Northwell Health, New Hyde Park, NY.
+FAU - Dow, Garrett
+AU  - Dow G
+AD  - Department of Medicinal Chemistry, University of Michigan, Ann Arbor, MI.
+AD  - Department of Cardiovascular Diseases, Mayo Clinic, Rochester, MN.
+FAU - Glicksberg, Benjamin S
+AU  - Glicksberg BS
+AD  - Department of Genetics and Genomics, Icahn Institute of Genomics and Multiscale
+      Biology, Institute of Next Generation Healthcare, Icahn School of Medicine at
+      Mount Sinai, Mount Sinai Health System, New York, NY.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+AD  - Department of Genetics and Genomics, Icahn Institute of Genomics and Multiscale
+      Biology, Institute of Next Generation Healthcare, Icahn School of Medicine at
+      Mount Sinai, Mount Sinai Health System, New York, NY.
+FAU - Ze, Yi
+AU  - Ze Y
+AD  - Department of Cardiovascular Diseases, Mayo Clinic, Rochester, MN.
+FAU - Tomlinson, Max S
+AU  - Tomlinson MS
+AD  - Department of Genetics and Genomics, Icahn Institute of Genomics and Multiscale
+      Biology, Institute of Next Generation Healthcare, Icahn School of Medicine at
+      Mount Sinai, Mount Sinai Health System, New York, NY.
+FAU - Readhead, Ben
+AU  - Readhead B
+AD  - Department of Genetics and Genomics, Icahn Institute of Genomics and Multiscale
+      Biology, Institute of Next Generation Healthcare, Icahn School of Medicine at
+      Mount Sinai, Mount Sinai Health System, New York, NY.
+FAU - Dudley, Joel T
+AU  - Dudley JT
+AD  - Department of Genetics and Genomics, Icahn Institute of Genomics and Multiscale
+      Biology, Institute of Next Generation Healthcare, Icahn School of Medicine at
+      Mount Sinai, Mount Sinai Health System, New York, NY.
+AD  - Population Health Science and Policy, Mount Sinai Health System, New York, NY.
+FAU - Kullo, Iftikhar J
+AU  - Kullo IJ
+AD  - Population Health Science and Policy, Mount Sinai Health System, New York, NY.
+LA  - eng
+GR  - UL1 TR001433/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+DEP - 20180518
+PL  - United States
+TA  - AMIA Jt Summits Transl Sci Proc
+JT  - AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on
+      Translational Science
+JID - 101539486
+PMC - PMC5961807
+EDAT- 2018/06/12 06:00
+MHDA- 2018/06/12 06:01
+CRDT- 2018/06/12 06:00
+PHST- 2018/06/12 06:00 [entrez]
+PHST- 2018/06/12 06:00 [pubmed]
+PHST- 2018/06/12 06:01 [medline]
+PST - epublish
+SO  - AMIA Jt Summits Transl Sci Proc. 2018 May 18;2017:108-117. eCollection 2018.
+
+PMID- 29659828
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20180509
+IS  - 1460-2083 (Electronic)
+IS  - 0964-6906 (Linking)
+VI  - 27
+IP  - R1
+DP  - 2018 May 1
+TI  - The next generation of precision medicine: observational studies, electronic
+      health records, biobanks and continuous monitoring.
+PG  - R56-R62
+LID - 10.1093/hmg/ddy114 [doi]
+AB  - Precision medicine can utilize new techniques in order to more effectively
+      translate research findings into clinical practice. In this article, we first
+      explore the limitations of traditional study designs, which stem from (to name a 
+      few): massive cost for the assembly of large patient cohorts; non-representative 
+      patient data; and the astounding complexity of human biology. Second, we propose 
+      that harnessing electronic health records and mobile device biometrics coupled to
+      longitudinal data may prove to be a solution to many of these problems by
+      capturing a 'real world' phenotype. We envision that future biomedical research
+      utilizing more precise approaches to patient care will utilize continuous and
+      longitudinal data sources.
+FAU - Glicksberg, Benjamin S
+AU  - Glicksberg BS
+AD  - Institute for Next Generation Healthcare Department of Genetics and Genomic
+      Sciences, Icahn Institute for Genomics and Multiscale Biology, Icahn School of
+      Medicine at Mount Sinai, Mount Sinai Health System, New York City, NY 10029, USA.
+AD  - Institute for Computational Health Sciences, University of California San
+      Francisco, San Francisco, CA 94158, USA.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+AD  - Institute for Next Generation Healthcare Department of Genetics and Genomic
+      Sciences, Icahn Institute for Genomics and Multiscale Biology, Icahn School of
+      Medicine at Mount Sinai, Mount Sinai Health System, New York City, NY 10029, USA.
+FAU - Dudley, Joel T
+AU  - Dudley JT
+AD  - Institute for Next Generation Healthcare Department of Genetics and Genomic
+      Sciences, Icahn Institute for Genomics and Multiscale Biology, Icahn School of
+      Medicine at Mount Sinai, Mount Sinai Health System, New York City, NY 10029, USA.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Hum Mol Genet
+JT  - Human molecular genetics
+JID - 9208958
+EDAT- 2018/04/17 06:00
+MHDA- 2018/04/17 06:00
+CRDT- 2018/04/17 06:00
+PHST- 2018/03/13 00:00 [received]
+PHST- 2018/03/27 00:00 [accepted]
+PHST- 2018/04/17 06:00 [pubmed]
+PHST- 2018/04/17 06:00 [medline]
+PHST- 2018/04/17 06:00 [entrez]
+AID - 4969371 [pii]
+AID - 10.1093/hmg/ddy114 [doi]
+PST - ppublish
+SO  - Hum Mol Genet. 2018 May 1;27(R1):R56-R62. doi: 10.1093/hmg/ddy114.
+
+PMID- 29888156
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20180613
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Linking)
+VI  - 10
+IP  - 4
+DP  - 2018 Apr 9
+TI  - A 72-Year-Old Patient with Longstanding, Untreated Familial Hypercholesterolemia 
+      but no Coronary Artery Calcification: A Case Report.
+PG  - e2452
+LID - 10.7759/cureus.2452 [doi]
+AB  - Familial hypercholesterolemia (FH) is a genetic disease associated with
+      persistently elevated levels of low-density lipoprotein cholesterol (LDL-C),
+      which ultimately leads to greatly increased rates of atherosclerosis and
+      cardiovascular disease. Atherosclerosis progression can be clinically
+      approximated through measurement of coronary artery calcification (CAC). CAC can 
+      be measured via electron beam computed tomography (EBCT), multi-slice computed
+      tomography (MSCT), or contrast-enhanced CT coronary angiography (CTCA). Here, we 
+      present the case of a 72-year-old man with known FH and established
+      hypercholesterolemia who has consistently tested negative for any significant
+      CAC.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+AD  - Institute for Next Generation Healthcare, Icahn School of Medicine at Mount
+      Sinai, New York, N.Y., USA.
+FAU - Dudley, Joel T
+AU  - Dudley JT
+AD  - Institute for Next Generation Healthcare, Icahn School of Medicine at Mount
+      Sinai, New York, USA.
+FAU - Bobe, Jason R
+AU  - Bobe JR
+AD  - Icahn Institute, Genetic and Genomic Sciences, Icahn School of Medicine at Mount 
+      Sinai, New York, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20180409
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC5991918
+OTO - NOTNLM
+OT  - cardiovascular disease
+OT  - coronary artery calcification
+OT  - familial hypercholesterolemia
+OT  - genetic resilience
+OT  - high cholesterol
+OT  - incomplete penetrance
+OT  - ldlr mutation
+OT  - positive outlier
+OT  - resilience
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2018/06/12 06:00
+MHDA- 2018/06/12 06:01
+CRDT- 2018/06/12 06:00
+PHST- 2018/06/12 06:00 [entrez]
+PHST- 2018/06/12 06:00 [pubmed]
+PHST- 2018/06/12 06:01 [medline]
+AID - 10.7759/cureus.2452 [doi]
+PST - epublish
+SO  - Cureus. 2018 Apr 9;10(4):e2452. doi: 10.7759/cureus.2452.
+
+PMID- 29218877
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180827
+LR  - 20180827
+IS  - 2335-6936 (Electronic)
+IS  - 2335-6928 (Linking)
+VI  - 23
+DP  - 2018
+TI  - Automated disease cohort selection using word embeddings from Electronic Health
+      Records.
+PG  - 145-156
+AB  - Accurate and robust cohort definition is critical to biomedical discovery using
+      Electronic Health Records (EHR). Similar to prospective study designs, high
+      quality EHR-based research requires rigorous selection criteria to designate
+      case/control status particular to each disease. Electronic phenotyping
+      algorithms, which are manually built and validated per disease, have been
+      successful in filling this need. However, these approaches are time-consuming,
+      leading to only a relatively small amount of algorithms for diseases developed.
+      Methodologies that automatically learn features from EHRs have been used for
+      cohort selection as well. To date, however, there has been no systematic analysis
+      of how these methods perform against current gold standards. Accordingly, this
+      paper compares the performance of a state-of-the-art automated feature learning
+      method to extracting research-grade cohorts for five diseases against their
+      established electronic phenotyping algorithms. In particular, we use word2vec to 
+      create unsupervised embeddings of the phenotype space within an EHR system. Using
+      medical concepts as a query, we then rank patients by their proximity in the
+      embedding space and automatically extract putative disease cohorts via a distance
+      threshold. Experimental evaluation shows promising results with average F-score
+      of 0.57 and AUC-ROC of 0.98. However, we noticed that results varied considerably
+      between diseases, thus necessitating further investigation and/or
+      phenotype-specific refinement of the approach before being readily deployed
+      across all diseases.
+FAU - Glicksberg, Benjamin S
+AU  - Glicksberg BS
+AD  - Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount
+      Sinai, 1 Gustave L. Levy Pl. New York, NY 10065, USA, (2)Institute for Next
+      Generation Healthcare, Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy
+      Pl. New York, NY 10065, USA.
+FAU - Miotto, Riccardo
+AU  - Miotto R
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+FAU - Shameer, Khader
+AU  - Shameer K
+FAU - Li, Li
+AU  - Li L
+FAU - Chen, Rong
+AU  - Chen R
+FAU - Dudley, Joel T
+AU  - Dudley JT
+LA  - eng
+GR  - R01 DK098242/DK/NIDDK NIH HHS/United States
+PT  - Evaluation Studies
+PT  - Journal Article
+PL  - United States
+TA  - Pac Symp Biocomput
+JT  - Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+JID - 9711271
+SB  - IM
+MH  - Algorithms
+MH  - Cohort Studies
+MH  - Computational Biology/methods
+MH  - Disease
+MH  - Electronic Health Records/*statistics & numerical data
+MH  - Expert Systems
+MH  - Humans
+MH  - Machine Learning
+MH  - Phenotype
+PMC - PMC5788312
+MID - NIHMS921845
+EDAT- 2017/12/09 06:00
+MHDA- 2018/08/28 06:00
+CRDT- 2017/12/09 06:00
+PHST- 2017/12/09 06:00 [entrez]
+PHST- 2017/12/09 06:00 [pubmed]
+PHST- 2018/08/28 06:00 [medline]
+AID - 9789813235533_0014 [pii]
+PST - ppublish
+SO  - Pac Symp Biocomput. 2018;23:145-156.
+
+PMID- 29218880
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180827
+LR  - 20180827
+IS  - 2335-6936 (Electronic)
+IS  - 2335-6928 (Linking)
+VI  - 23
+DP  - 2018
+TI  - Causal inference on electronic health records to assess blood pressure treatment 
+      targets: an application of the parametric g formula.
+PG  - 180-191
+AB  - Hypertension is a major risk factor for ischemic cardiovascular disease and
+      cerebrovascular disease, which are respectively the primary and secondary most
+      common causes of morbidity and mortality across the globe. To alleviate the risks
+      of hypertension, there are a number of effective antihypertensive drugs
+      available. However, the optimal treatment blood pressure goal for
+      antihypertensive therapy remains an area of controversy. The results of the
+      recent Systolic Blood Pressure Intervention Trial (SPRINT) trial, which found
+      benefits for intensive lowering of systolic blood pressure, have been debated for
+      several reasons. We aimed to assess the benefits of treating to four different
+      blood pressure targets and to compare our results to those of SPRINT using a
+      method for causal inference called the parametric g formula. We applied this
+      method to blood pressure measurements obtained from the electronic health records
+      of approximately 200,000 patients who visited the Mount Sinai Hospital in New
+      York, NY. We simulated the effect of four clinically relevant dynamic treatment
+      regimes, assessing the effectiveness of treating to four different blood pressure
+      targets: 150 mmHg, 140 mmHg, 130 mmHg, and 120 mmHg. In contrast to current
+      American Heart Association guidelines and in concordance with SPRINT, we find
+      that targeting 120 mmHg systolic blood pressure is significantly associated with 
+      decreased incidence of major adverse cardiovascular events. Causal inference
+      methods applied to electronic methods are a powerful and flexible technique and
+      medicine may benefit from their increased usage.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+AD  - Institute for Next Generation Healthcare, Department of Genetics and Genomic
+      Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10065, US.
+FAU - Glicksberg, Benjamin S
+AU  - Glicksberg BS
+FAU - Hodos, Rachel A
+AU  - Hodos RA
+FAU - Shameer, Khader
+AU  - Shameer K
+FAU - Dudley, Joel T
+AU  - Dudley JT
+LA  - eng
+GR  - R01 DK098242/DK/NIDDK NIH HHS/United States
+GR  - R01 GM112945/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PL  - United States
+TA  - Pac Symp Biocomput
+JT  - Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+JID - 9711271
+RN  - 0 (Antihypertensive Agents)
+SB  - IM
+MH  - Algorithms
+MH  - Antihypertensive Agents/*therapeutic use
+MH  - Blood Pressure/*drug effects
+MH  - Cardiovascular Diseases/prevention & control
+MH  - Causality
+MH  - Cerebrovascular Disorders/prevention & control
+MH  - Computational Biology/methods
+MH  - Computer Simulation
+MH  - Electronic Health Records/*statistics & numerical data
+MH  - Humans
+MH  - Hypertension/complications/drug therapy/physiopathology
+MH  - *Models, Statistical
+MH  - Monte Carlo Method
+MH  - Risk Factors
+MH  - Survival Analysis
+PMC - PMC5728675
+MID - NIHMS921847
+EDAT- 2017/12/09 06:00
+MHDA- 2018/08/28 06:00
+CRDT- 2017/12/09 06:00
+PHST- 2017/12/09 06:00 [entrez]
+PHST- 2017/12/09 06:00 [pubmed]
+PHST- 2018/08/28 06:00 [medline]
+AID - 9789813235533_0017 [pii]
+PST - ppublish
+SO  - Pac Symp Biocomput. 2018;23:180-191.
+
+PMID- 28765529
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20170809
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 7
+IP  - 1
+DP  - 2017 Aug 1
+TI  - Intracoronary Imaging, Cholesterol Efflux, and Transcriptomics after Intensive
+      Statin Treatment in Diabetes.
+PG  - 7001
+LID - 10.1038/s41598-017-07029-7 [doi]
+AB  - Residual atherothrombotic risk remains higher in patients with versus without
+      diabetes mellitus (DM) despite statin therapy. The underlying mechanisms are
+      unclear. This is a retrospective post-hoc analysis of the YELLOW II trial,
+      comparing patients with and without DM (non-DM) who received rosuvastatin 40 mg
+      for 8-12 weeks and underwent intracoronary multimodality imaging of an
+      obstructive nonculprit lesion, before and after therapy. In addition, blood
+      samples were drawn to assess cholesterol efflux capacity (CEC) and changes in
+      gene expression in peripheral blood mononuclear cells (PBMC). There was a
+      significant reduction in low density lipoprotein-cholesterol (LDL-C), an increase
+      in CEC and beneficial changes in plaque morphology including increase in fibrous 
+      cap thickness and decrease in the prevalence of thin cap fibro-atheroma by
+      optical coherence tomography in DM and non-DM patients. While differential gene
+      expression analysis did not demonstrate differences in PBMC transcriptome between
+      the two groups on the single-gene level, weighted gene coexpression network
+      analysis revealed two modules of coexpressed genes associated with DM, Collagen
+      Module and Platelet Module, related to collagen catabolism and platelet function 
+      respectively. Bayesian network analysis revealed key driver genes within these
+      modules. These transcriptomic findings might provide potential mechanisms
+      responsible for the higher cardiovascular risk in DM patients.
+FAU - Chamaria, Surbhi
+AU  - Chamaria S
+AD  - Mount Sinai Heart, Mount Sinai Hospital, New York, USA.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+AUID- ORCID: http://orcid.org/0000-0002-5102-741X
+AD  - Institute for Next Generation Healthcare, Icahn School of Medicine at Mount
+      Sinai, New York, USA.
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genetics and
+      Genomic Sciences, Icahn School of Medicine, New York, USA.
+FAU - Vengrenyuk, Yuliya
+AU  - Vengrenyuk Y
+AD  - Mount Sinai Heart, Mount Sinai Hospital, New York, USA.
+FAU - Baber, Usman
+AU  - Baber U
+AD  - Mount Sinai Heart, Mount Sinai Hospital, New York, USA.
+FAU - Shameer, Khader
+AU  - Shameer K
+AD  - Institute for Next Generation Healthcare, Icahn School of Medicine at Mount
+      Sinai, New York, USA.
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genetics and
+      Genomic Sciences, Icahn School of Medicine, New York, USA.
+FAU - Divaraniya, Aparna A
+AU  - Divaraniya AA
+AD  - Institute for Next Generation Healthcare, Icahn School of Medicine at Mount
+      Sinai, New York, USA.
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genetics and
+      Genomic Sciences, Icahn School of Medicine, New York, USA.
+FAU - Glicksberg, Benjamin S
+AU  - Glicksberg BS
+AUID- ORCID: http://orcid.org/0000-0003-4515-8090
+AD  - Institute for Next Generation Healthcare, Icahn School of Medicine at Mount
+      Sinai, New York, USA.
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genetics and
+      Genomic Sciences, Icahn School of Medicine, New York, USA.
+FAU - Li, Li
+AU  - Li L
+AD  - Institute for Next Generation Healthcare, Icahn School of Medicine at Mount
+      Sinai, New York, USA.
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genetics and
+      Genomic Sciences, Icahn School of Medicine, New York, USA.
+FAU - Bhatheja, Samit
+AU  - Bhatheja S
+AD  - Mount Sinai Heart, Mount Sinai Hospital, New York, USA.
+FAU - Moreno, Pedro
+AU  - Moreno P
+AD  - Mount Sinai Heart, Mount Sinai Hospital, New York, USA.
+FAU - Maehara, Akiko
+AU  - Maehara A
+AD  - Columbia University Medical Center, New York, USA.
+FAU - Mehran, Roxana
+AU  - Mehran R
+AD  - Mount Sinai Heart, Mount Sinai Hospital, New York, USA.
+FAU - Dudley, Joel T
+AU  - Dudley JT
+AD  - Institute for Next Generation Healthcare, Icahn School of Medicine at Mount
+      Sinai, New York, USA.
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genetics and
+      Genomic Sciences, Icahn School of Medicine, New York, USA.
+AD  - Department of Population Health and Health Policy, Icahn School of Medicine at
+      Mount Sinai, New York, USA.
+FAU - Narula, Jagat
+AU  - Narula J
+AD  - Mount Sinai Heart, Mount Sinai Hospital, New York, USA.
+FAU - Sharma, Samin K
+AU  - Sharma SK
+AD  - Mount Sinai Heart, Mount Sinai Hospital, New York, USA.
+FAU - Kini, Annapoorna S
+AU  - Kini AS
+AD  - Mount Sinai Heart, Mount Sinai Hospital, New York, USA.
+      annapoorna.kini@mountsinai.org.
+LA  - eng
+GR  - R01 DK098242/DK/NIDDK NIH HHS/United States
+GR  - U54 CA189201/CA/NCI NIH HHS/United States
+GR  - UL1 TR000067/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+DEP - 20170801
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+PMC - PMC5539108
+EDAT- 2017/08/03 06:00
+MHDA- 2017/08/03 06:00
+CRDT- 2017/08/03 06:00
+PHST- 2017/03/17 00:00 [received]
+PHST- 2017/06/20 00:00 [accepted]
+PHST- 2017/08/03 06:00 [entrez]
+PHST- 2017/08/03 06:00 [pubmed]
+PHST- 2017/08/03 06:00 [medline]
+AID - 10.1038/s41598-017-07029-7 [doi]
+AID - 10.1038/s41598-017-07029-7 [pii]
+PST - epublish
+SO  - Sci Rep. 2017 Aug 1;7(1):7001. doi: 10.1038/s41598-017-07029-7.
+
+PMID- 30062151
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20180803
+IS  - 2452-302X (Electronic)
+IS  - 2452-302X (Linking)
+VI  - 2
+IP  - 3
+DP  - 2017 Jun
+TI  - Enabling Precision Cardiology Through Multiscale Biology and Systems Medicine.
+PG  - 311-327
+LID - 10.1016/j.jacbts.2016.11.010 [doi]
+AB  - The traditional paradigm of cardiovascular disease research derives insight from 
+      large-scale, broadly inclusive clinical studies of well-characterized
+      pathologies. These insights are then put into practice according to standardized 
+      clinical guidelines. However, stagnation in the development of new cardiovascular
+      therapies and variability in therapeutic response implies that this paradigm is
+      insufficient for reducing the cardiovascular disease burden. In this
+      state-of-the-art review, we examine 3 interconnected ideas we put forth as key
+      concepts for enabling a transition to precision cardiology: 1) precision
+      characterization of cardiovascular disease with machine learning methods; 2) the 
+      application of network models of disease to embrace disease complexity; and 3)
+      using insights from the previous 2 ideas to enable pharmacology and
+      polypharmacology systems for more precise drug-to-patient matching and
+      patient-disease stratification. We conclude by exploring the challenges of
+      applying a precision approach to cardiology, which arise from a deficit of the
+      required resources and infrastructure, and emerging evidence for the clinical
+      effectiveness of this nascent approach.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+AD  - Institute for Next Generation Healthcare, Mount Sinai Health System, New York,
+      New York.
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genomics and
+      Multiscale Biology, Icahn School of Medicine at Mount Sinai, New York, New York.
+FAU - Shameer, Khader
+AU  - Shameer K
+AD  - Institute for Next Generation Healthcare, Mount Sinai Health System, New York,
+      New York.
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genomics and
+      Multiscale Biology, Icahn School of Medicine at Mount Sinai, New York, New York.
+FAU - Glicksberg, Benjamin S
+AU  - Glicksberg BS
+AD  - Institute for Next Generation Healthcare, Mount Sinai Health System, New York,
+      New York.
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genomics and
+      Multiscale Biology, Icahn School of Medicine at Mount Sinai, New York, New York.
+FAU - Readhead, Ben
+AU  - Readhead B
+AD  - Institute for Next Generation Healthcare, Mount Sinai Health System, New York,
+      New York.
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genomics and
+      Multiscale Biology, Icahn School of Medicine at Mount Sinai, New York, New York.
+FAU - Sengupta, Partho P
+AU  - Sengupta PP
+AD  - The Zena and Michael A. Wiener Cardiovascular Institute, Icahn School of Medicine
+      at Mount Sinai, New York, New York.
+AD  - Department of Population Health Science and Policy, Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Bjorkegren, Johan L M
+AU  - Bjorkegren JLM
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genomics and
+      Multiscale Biology, Icahn School of Medicine at Mount Sinai, New York, New York.
+AD  - Department of Medical Biochemistry and Biophysics Vascular Biology Unit,
+      Karolinska Institutet, Stockholm, Sweden.
+FAU - Kovacic, Jason C
+AU  - Kovacic JC
+AD  - The Zena and Michael A. Wiener Cardiovascular Institute, Icahn School of Medicine
+      at Mount Sinai, New York, New York.
+AD  - Department of Population Health Science and Policy, Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Dudley, Joel T
+AU  - Dudley JT
+AD  - Institute for Next Generation Healthcare, Mount Sinai Health System, New York,
+      New York.
+AD  - Department of Genetics and Genomic Sciences, Icahn Institute for Genomics and
+      Multiscale Biology, Icahn School of Medicine at Mount Sinai, New York, New York.
+AD  - Department of Population Health Science and Policy, Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20170626
+PL  - United States
+TA  - JACC Basic Transl Sci
+JT  - JACC. Basic to translational science
+JID - 101677259
+PMC - PMC6034501
+OTO - NOTNLM
+OT  - CAD, coronary artery disease
+OT  - EHR, electronic health record
+OT  - GWAS, genome-wide association studies
+OT  - HF, heart failure
+OT  - cardiology
+OT  - clinical informatics
+OT  - multi-omics
+OT  - precision medicine
+OT  - translational bioinformatics
+EDAT- 2017/06/26 00:00
+MHDA- 2017/06/26 00:01
+CRDT- 2018/08/01 06:00
+PHST- 2016/11/01 00:00 [received]
+PHST- 2016/11/29 00:00 [revised]
+PHST- 2016/11/30 00:00 [accepted]
+PHST- 2018/08/01 06:00 [entrez]
+PHST- 2017/06/26 00:00 [pubmed]
+PHST- 2017/06/26 00:01 [medline]
+AID - 10.1016/j.jacbts.2016.11.010 [doi]
+AID - S2452-302X(17)30087-6 [pii]
+PST - epublish
+SO  - JACC Basic Transl Sci. 2017 Jun 26;2(3):311-327. doi:
+      10.1016/j.jacbts.2016.11.010. eCollection 2017 Jun.
+
+PMID- 27989886
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170717
+LR  - 20170717
+IS  - 1558-3597 (Electronic)
+IS  - 0735-1097 (Linking)
+VI  - 69
+IP  - 6
+DP  - 2017 Feb 14
+TI  - Intracoronary Imaging, Cholesterol Efflux, and Transcriptomes After Intensive
+      Statin Treatment: The YELLOW II Study.
+PG  - 628-640
+LID - S0735-1097(16)36776-6 [pii]
+LID - 10.1016/j.jacc.2016.10.029 [doi]
+AB  - BACKGROUND: Despite extensive evidence demonstrating the beneficial effects of
+      statins on clinical outcomes, the mechanisms underlying these effects remain
+      elusive. OBJECTIVES: This study assessed changes in plaque morphology using
+      intravascular imaging, with a comprehensive evaluation of cholesterol efflux
+      capacity (CEC) and peripheral blood mononuclear cell (PBMC) transcriptomics in
+      patients receiving high-dose statin therapy. METHODS: In a prospective study, 85 
+      patients with stable coronary artery disease underwent percutaneous coronary
+      intervention for a culprit lesion, followed by intracoronary multimodality
+      imaging, including optical coherence tomography (OCT) of an obstructive
+      nonculprit lesion. All subjects received 40 mg of rosuvastatin daily for 8 to 12 
+      weeks, when the nonculprit lesion was reimaged and intervention performed. Blood 
+      samples were drawn at both times to assess CEC and transcriptomic profile in
+      PBMC. RESULTS: Baseline OCT minimal fibrous cap thickness (FCT) was 100.9 +/-
+      41.7 mum, which increased to 108.6 +/- 39.6 mum at follow-up, and baseline CEC
+      was 0.81 +/- 0.14, which increased at follow-up to 0.84 +/- 0.14 (p = 0.003).
+      Thin-cap fibroatheroma prevalence decreased from 20.0% to 7.1% (p = 0.003).
+      Changes in FCT were independently associated with CEC increase by multivariate
+      analysis (beta: 0.30; p = 0.01). PBMC microarray analysis detected 117 genes that
+      were differentially expressed at follow-up compared to baseline, including genes 
+      playing key roles in cholesterol synthesis (SQLE), regulation of fatty acids
+      unsaturation (FADS1), cellular cholesterol uptake (LDLR), efflux (ABCA1 and
+      ABCG1), and inflammation (DHCR24). Weighted coexpression network analysis
+      revealed unique clusters of genes associated with favorable FCT and CEC changes. 
+      CONCLUSIONS: The study demonstrated an independent association between fibrous
+      cap thickening and improved CEC that may contribute to morphological changes
+      suggesting plaque stabilization among patients taking intensive statin therapy.
+      Furthermore, the significant perturbations in PBMC transcriptome may help
+      determine the beneficial effects of statin on plaque stabilization. (Reduction in
+      Coronary Yellow Plaque, Lipids and Vascular Inflammation by Aggressive Lipid
+      Lowering [YELLOW II]; NCT01837823).
+CI  - Copyright (c) 2017 American College of Cardiology Foundation. Published by
+      Elsevier Inc. All rights reserved.
+FAU - Kini, Annapoorna S
+AU  - Kini AS
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York. Electronic address:
+      annapoorna.kini@mountsinai.org.
+FAU - Vengrenyuk, Yuliya
+AU  - Vengrenyuk Y
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Shameer, Khader
+AU  - Shameer K
+AD  - Icahn Institute for Genomics and Multiscale Biology, Icahn School of Medicine at 
+      Mount Sinai, New York, New York.
+FAU - Maehara, Akiko
+AU  - Maehara A
+AD  - Division of Cardiology, Columbia University Medical Center and Cardiovascular
+      Research Foundation, New York, New York.
+FAU - Purushothaman, Meerarani
+AU  - Purushothaman M
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Yoshimura, Takahiro
+AU  - Yoshimura T
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Matsumura, Mitsuaki
+AU  - Matsumura M
+AD  - Division of Cardiology, Columbia University Medical Center and Cardiovascular
+      Research Foundation, New York, New York.
+FAU - Aquino, Melissa
+AU  - Aquino M
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Haider, Nezam
+AU  - Haider N
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+AD  - Icahn Institute for Genomics and Multiscale Biology, Icahn School of Medicine at 
+      Mount Sinai, New York, New York.
+FAU - Readhead, Ben
+AU  - Readhead B
+AD  - Icahn Institute for Genomics and Multiscale Biology, Icahn School of Medicine at 
+      Mount Sinai, New York, New York.
+FAU - Kidd, Brian A
+AU  - Kidd BA
+AD  - Icahn Institute for Genomics and Multiscale Biology, Icahn School of Medicine at 
+      Mount Sinai, New York, New York.
+FAU - Feig, Jonathan E
+AU  - Feig JE
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Krishnan, Prakash
+AU  - Krishnan P
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Sweeny, Joseph
+AU  - Sweeny J
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Milind, Mahajan
+AU  - Milind M
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Moreno, Pedro
+AU  - Moreno P
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Mehran, Roxana
+AU  - Mehran R
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Kovacic, Jason C
+AU  - Kovacic JC
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Baber, Usman
+AU  - Baber U
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Dudley, Joel T
+AU  - Dudley JT
+AD  - Icahn Institute for Genomics and Multiscale Biology, Icahn School of Medicine at 
+      Mount Sinai, New York, New York.
+FAU - Narula, Jagat
+AU  - Narula J
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+FAU - Sharma, Samin
+AU  - Sharma S
+AD  - Division of Cardiology, Mount Sinai Hospital and Icahn School of Medicine at
+      Mount Sinai, New York, New York.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT01837823
+PT  - Clinical Study
+PT  - Journal Article
+DEP - 20161029
+PL  - United States
+TA  - J Am Coll Cardiol
+JT  - Journal of the American College of Cardiology
+JID - 8301365
+RN  - 0 (Hydroxymethylglutaryl-CoA Reductase Inhibitors)
+RN  - 83MVU38M7Q (Rosuvastatin Calcium)
+SB  - AIM
+SB  - IM
+MH  - Coronary Artery Disease/blood/*diagnostic imaging/*therapy
+MH  - Female
+MH  - Humans
+MH  - Hydroxymethylglutaryl-CoA Reductase Inhibitors/*therapeutic use
+MH  - Leukocytes, Mononuclear
+MH  - Male
+MH  - Multimodal Imaging
+MH  - *Percutaneous Coronary Intervention
+MH  - Plaque, Atherosclerotic/blood/*diagnostic imaging/*therapy
+MH  - Prospective Studies
+MH  - Rosuvastatin Calcium/therapeutic use
+MH  - Tomography, Optical Coherence
+MH  - Transcriptome
+OTO - NOTNLM
+OT  - fibrous cap thickness
+OT  - high-dose statin
+OT  - optical coherence tomography
+OT  - plaque stability
+OT  - thin-cap fibroatheroma
+EDAT- 2016/12/19 06:00
+MHDA- 2017/07/18 06:00
+CRDT- 2016/12/20 06:00
+PHST- 2016/10/18 00:00 [received]
+PHST- 2016/10/24 00:00 [revised]
+PHST- 2016/10/24 00:00 [accepted]
+PHST- 2016/12/19 06:00 [pubmed]
+PHST- 2017/07/18 06:00 [medline]
+PHST- 2016/12/20 06:00 [entrez]
+AID - S0735-1097(16)36776-6 [pii]
+AID - 10.1016/j.jacc.2016.10.029 [doi]
+PST - ppublish
+SO  - J Am Coll Cardiol. 2017 Feb 14;69(6):628-640. doi: 10.1016/j.jacc.2016.10.029.
+      Epub 2016 Oct 29.
+
+PMID- 27896982
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170626
+LR  - 20180718
+IS  - 2335-6936 (Electronic)
+IS  - 2335-6928 (Linking)
+VI  - 22
+DP  - 2017
+TI  - PREDICTIVE MODELING OF HOSPITAL READMISSION RATES USING ELECTRONIC MEDICAL
+      RECORD-WIDE MACHINE LEARNING: A CASE-STUDY USING MOUNT SINAI HEART FAILURE
+      COHORT.
+PG  - 276-287
+LID - 10.1142/9789813207813_0027 [doi]
+AB  - Reduction of preventable hospital readmissions that result from chronic or acute 
+      conditions like stroke, heart failure, myocardial infarction and pneumonia
+      remains a significant challenge for improving the outcomes and decreasing the
+      cost of healthcare delivery in the United States. Patient readmission rates are
+      relatively high for conditions like heart failure (HF) despite the implementation
+      of high-quality healthcare delivery operation guidelines created by regulatory
+      authorities. Multiple predictive models are currently available to evaluate
+      potential 30-day readmission rates of patients. Most of these models are
+      hypothesis driven and repetitively assess the predictive abilities of the same
+      set of biomarkers as predictive features. In this manuscript, we discuss our
+      attempt to develop a data-driven, electronic-medical record-wide (EMR-wide)
+      feature selection approach and subsequent machine learning to predict readmission
+      probabilities. We have assessed a large repertoire of variables from electronic
+      medical records of heart failure patients in a single center. The cohort included
+      1,068 patients with 178 patients were readmitted within a 30-day interval (16.66%
+      readmission rate). A total of 4,205 variables were extracted from EMR including
+      diagnosis codes (n=1,763), medications (n=1,028), laboratory measurements
+      (n=846), surgical procedures (n=564) and vital signs (n=4). We designed a
+      multistep modeling strategy using the Naive Bayes algorithm. In the first step,
+      we created individual models to classify the cases (readmitted) and controls
+      (non-readmitted). In the second step, features contributing to predictive risk
+      from independent models were combined into a composite model using a
+      correlation-based feature selection (CFS) method. All models were trained and
+      tested using a 5-fold cross-validation method, with 70% of the cohort used for
+      training and the remaining 30% for testing. Compared to existing predictive
+      models for HF readmission rates (AUCs in the range of 0.6-0.7), results from our 
+      EMR-wide predictive model (AUC=0.78; Accuracy=83.19%) and phenome-wide feature
+      selection strategies are encouraging and reveal the utility of such datadriven
+      machine learning. Fine tuning of the model, replication using multi-center
+      cohorts and prospective clinical trial to evaluate the clinical utility would
+      help the adoption of the model as a clinical decision system for evaluating
+      readmission status.
+FAU - Shameer, Khader
+AU  - Shameer K
+AD  - Department of Genetics and Genomics, Icahn Institute of Genomics and Multiscale
+      Biology, New York, NY, USA2Institute of Next Generation Healthcare, Mount Sinai
+      Health System, New York, NY, USA.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+FAU - Yahi, Alexandre
+AU  - Yahi A
+FAU - Miotto, Riccardo
+AU  - Miotto R
+FAU - Li, L I
+AU  - Li LI
+FAU - Ricks, Doran
+AU  - Ricks D
+FAU - Jebakaran, Jebakumar
+AU  - Jebakaran J
+FAU - Kovatch, Patricia
+AU  - Kovatch P
+FAU - Sengupta, Partho P
+AU  - Sengupta PP
+FAU - Gelijns, Sengupta
+AU  - Gelijns S
+FAU - Moskovitz, Alan
+AU  - Moskovitz A
+FAU - Darrow, Bruce
+AU  - Darrow B
+FAU - David, David L
+AU  - David DL
+FAU - Kasarskis, Andrew
+AU  - Kasarskis A
+FAU - Tatonetti, Nicholas P
+AU  - Tatonetti NP
+FAU - Pinney, Sean
+AU  - Pinney S
+FAU - Dudley, Joel T
+AU  - Dudley JT
+LA  - eng
+GR  - R01 DK098242/DK/NIDDK NIH HHS/United States
+GR  - R01 GM107145/GM/NIGMS NIH HHS/United States
+GR  - S10 OD018522/OD/NIH HHS/United States
+GR  - UL1 TR001433/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - United States
+TA  - Pac Symp Biocomput
+JT  - Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+JID - 9711271
+SB  - IM
+MH  - Algorithms
+MH  - Bayes Theorem
+MH  - Cohort Studies
+MH  - Computational Biology
+MH  - Electronic Health Records/*statistics & numerical data
+MH  - Heart Failure/therapy
+MH  - Humans
+MH  - *Machine Learning
+MH  - Models, Statistical
+MH  - New York City
+MH  - Patient Readmission/*statistics & numerical data
+PMC - PMC5362124
+MID - NIHMS831930
+EDAT- 2016/11/30 06:00
+MHDA- 2017/06/27 06:00
+CRDT- 2016/11/30 06:00
+PHST- 2016/11/30 06:00 [entrez]
+PHST- 2016/11/30 06:00 [pubmed]
+PHST- 2017/06/27 06:00 [medline]
+AID - 9789813207813_0027 [pii]
+AID - 10.1142/9789813207813_0027 [doi]
+PST - ppublish
+SO  - Pac Symp Biocomput. 2017;22:276-287. doi: 10.1142/9789813207813_0027.
+
+PMID- 27528879
+OWN - NLM
+STAT- Publisher
+LR  - 20170220
+IS  - 1741-0541 (Print)
+IS  - 1741-0541 (Linking)
+VI  - 13
+IP  - 2
+DP  - 2016 Mar
+TI  - Medical student preparedness for an era of personalized medicine: findings from
+      one US medical school.
+PG  - 129-141
+AB  - AIM: The objective of this research was to assess medical student preparedness
+      for the use of personalized medicine. MATERIALS & METHODS: A survey instrument
+      measuring attitude toward personalized medicine, perceived knowledge of genomic
+      testing concepts and perceived ability to apply genomics to clinical care was
+      distributed to students in medical school (MS) years 1-4. RESULTS: Of 212
+      participants, 79% felt that it was important to learn about personalized
+      medicine, but only 6% thought that their medical education had adequately
+      prepared them to practice personalized medicine. Attitude did not vary across
+      years; knowledge and ability increased after MS1, but not after MS2. CONCLUSION: 
+      While medical students support the use of personalized medicine, they do not feel
+      prepared to apply genomics to clinical care.
+FAU - Eden, Caroline
+AU  - Eden C
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA.
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA.
+FAU - Gottesman, Omri
+AU  - Gottesman O
+AD  - The Charles Bronfman Institute for Personalized Medicine, Icahn School of
+      Medicine at Mount Sinai, New York, NY 10029, USA.
+FAU - Bottinger, Erwin P
+AU  - Bottinger EP
+AD  - The Charles Bronfman Institute for Personalized Medicine, Icahn School of
+      Medicine at Mount Sinai, New York, NY 10029, USA.
+FAU - Abul-Husn, Noura S
+AU  - Abul-Husn NS
+AD  - The Charles Bronfman Institute for Personalized Medicine, Icahn School of
+      Medicine at Mount Sinai, New York, NY 10029, USA; Department of Genetics &
+      Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY 10029,
+      USA.
+LA  - eng
+GR  - R01 DK060043/DK/NIDDK NIH HHS/United States
+GR  - T32 GM082773/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PL  - England
+TA  - Per Med
+JT  - Personalized medicine
+JID - 101238549
+PMC - PMC4982654
+MID - NIHMS774193
+OTO - NOTNLM
+OT  - genetics education
+OT  - genomic medicine
+OT  - medical education
+OT  - medical student
+OT  - personalized medicine
+OT  - pharmacogenetics
+OT  - pharmacogenomics
+OT  - precision medicine
+EDAT- 2016/08/17 06:00
+MHDA- 2016/08/17 06:00
+CRDT- 2016/08/17 06:00
+PHST- 2016/08/17 06:00 [entrez]
+PHST- 2016/08/17 06:00 [pubmed]
+PHST- 2016/08/17 06:00 [medline]
+AID - 10.2217/pme.15.58 [doi]
+PST - ppublish
+SO  - Per Med. 2016 Mar;13(2):129-141. doi: 10.2217/pme.15.58.
+
+PMID- 23315735
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130726
+LR  - 20161025
+IS  - 1098-5336 (Electronic)
+IS  - 0099-2240 (Linking)
+VI  - 79
+IP  - 5
+DP  - 2013 Mar
+TI  - Comparison of the genome sequences of "Candidatus Portiera aleyrodidarum" primary
+      endosymbionts of the whitefly Bemisia tabaci B and Q biotypes.
+PG  - 1757-9
+LID - 10.1128/AEM.02976-12 [doi]
+AB  - "Candidatus Portiera aleyrodidarum" is the primary endosymbiont of whiteflies. We
+      report two complete genome sequences of this bacterium from the worldwide
+      invasive B and Q biotypes of the whitefly Bemisia tabaci. Differences in the two 
+      genome sequences may add insights into the complex differences in the biology of 
+      both biotypes.
+FAU - Jiang, Zi-Feng
+AU  - Jiang ZF
+AD  - Institute for Genomics and Systems Biology, The University of Chicago, Chicago,
+      IL, USA.
+FAU - Xia, Fangfang
+AU  - Xia F
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+FAU - Brown, Christopher D
+AU  - Brown CD
+FAU - Bartom, Elizabeth
+AU  - Bartom E
+FAU - Tuteja, Jigyasa H
+AU  - Tuteja JH
+FAU - Stevens, Rick
+AU  - Stevens R
+FAU - Grossman, Robert L
+AU  - Grossman RL
+FAU - Brumin, Marina
+AU  - Brumin M
+FAU - White, Kevin P
+AU  - White KP
+FAU - Ghanim, Murad
+AU  - Ghanim M
+LA  - eng
+SI  - GENBANK/CP003867
+SI  - GENBANK/CP003868
+GR  - P50 GM081892/GM/NIGMS NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130111
+PL  - United States
+TA  - Appl Environ Microbiol
+JT  - Applied and environmental microbiology
+JID - 7605801
+RN  - 0 (DNA, Bacterial)
+SB  - IM
+MH  - Animals
+MH  - DNA, Bacterial/chemistry/genetics
+MH  - Genome, Bacterial
+MH  - Halomonadaceae/classification/genetics/*isolation & purification/*physiology
+MH  - Hemiptera/*microbiology
+MH  - Molecular Sequence Data
+MH  - *Symbiosis
+PMC - PMC3591977
+EDAT- 2013/01/15 06:00
+MHDA- 2013/07/28 06:00
+CRDT- 2013/01/15 06:00
+PHST- 2013/01/15 06:00 [entrez]
+PHST- 2013/01/15 06:00 [pubmed]
+PHST- 2013/07/28 06:00 [medline]
+AID - AEM.02976-12 [pii]
+AID - 10.1128/AEM.02976-12 [doi]
+PST - ppublish
+SO  - Appl Environ Microbiol. 2013 Mar;79(5):1757-9. doi: 10.1128/AEM.02976-12. Epub
+      2013 Jan 11.
+
+PMID- 23144417
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130123
+LR  - 20161025
+IS  - 1098-5530 (Electronic)
+IS  - 0021-9193 (Linking)
+VI  - 194
+IP  - 23
+DP  - 2012 Dec
+TI  - Genome sequences of the primary endosymbiont "Candidatus Portiera aleyrodidarum" 
+      in the whitefly Bemisia tabaci B and Q biotypes.
+PG  - 6678-9
+LID - 10.1128/JB.01841-12 [doi]
+AB  - "Candidatus Portiera aleyrodidarum" is the obligate primary endosymbiotic
+      bacterium of whiteflies, including the sweet potato whitefly Bemisia tabaci, and 
+      provides essential nutrients to its host. Here we report two complete genome
+      sequences of this bacterium from the B and Q biotypes of B. tabaci.
+FAU - Jiang, Zi-Feng
+AU  - Jiang ZF
+AD  - Institute for Genomics and Systems Biology, The University of Chicago, Chicago,
+      Illinois, USA.
+FAU - Xia, Fangfang
+AU  - Xia F
+FAU - Johnson, Kipp W
+AU  - Johnson KW
+FAU - Bartom, Elizabeth
+AU  - Bartom E
+FAU - Tuteja, Jigyasa H
+AU  - Tuteja JH
+FAU - Stevens, Rick
+AU  - Stevens R
+FAU - Grossman, Robert L
+AU  - Grossman RL
+FAU - Brumin, Marina
+AU  - Brumin M
+FAU - White, Kevin P
+AU  - White KP
+FAU - Ghanim, Murad
+AU  - Ghanim M
+LA  - eng
+SI  - GENBANK/CP003867
+GR  - P50 GM081892/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - J Bacteriol
+JT  - Journal of bacteriology
+JID - 2985120R
+RN  - 0 (DNA, Bacterial)
+SB  - IM
+MH  - Animals
+MH  - DNA, Bacterial/*chemistry/*genetics
+MH  - *Genome, Bacterial
+MH  - Halomonadaceae/*genetics/isolation & purification/physiology
+MH  - Hemiptera/classification/microbiology/physiology
+MH  - Molecular Sequence Data
+MH  - *Sequence Analysis, DNA
+MH  - Symbiosis
+PMC - PMC3497481
+EDAT- 2012/11/13 06:00
+MHDA- 2013/01/24 06:00
+CRDT- 2012/11/13 06:00
+PHST- 2012/11/13 06:00 [entrez]
+PHST- 2012/11/13 06:00 [pubmed]
+PHST- 2013/01/24 06:00 [medline]
+AID - 194/23/6678 [pii]
+AID - 10.1128/JB.01841-12 [doi]
+PST - ppublish
+SO  - J Bacteriol. 2012 Dec;194(23):6678-9. doi: 10.1128/JB.01841-12.
+
