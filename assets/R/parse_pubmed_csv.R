@@ -5,15 +5,10 @@ library(plyr)
 
 ### Read in CSV downloaded from Pubmed query ("Send to" --> "File" --> "CSV")
 website.home <- "~/projects/website/"
-infile <- fread(input=list.files(path=paste0(website.home, "_data"), pattern="pubmed_result", full.names = TRUE))
+infile <- suppressWarnings(fread(input=list.files(path=paste0(website.home, "_data"), pattern="pubmed_result", full.names = TRUE)))
 colnames(infile) <- as.character(.(Title,URL,Description,Details,ShortDetails,Resource,Type,Identifiers,Db,EntrezUID,Properties,cn))
 
-###
-dd <- infile[1]
-names(dd)
-
 ## function to parse each record and spit out the appropriate data
-
 parse.record <- function(rec){
   x <- list()
   x[["title"]] <- str_replace_all(rec$Title, pattern="\\.", replacement="")
@@ -33,36 +28,32 @@ parse.record <- function(rec){
                                      pattern="Johnson KW", 
                                      replacement="<b>Johnson KW</b>")
   
-  x[['pmid']] <- str_replace_all(rec$Identifiers, "PMID\\:", "")
+  #x[['pmid']] <- str_replace_all(rec$Identifiers, "PMID\\:", "")
+  x[['pmid']] <- rec$EntrezUID
   
   return(x)
 }
 
-x <- parse.record(dd)
-str(x)
-
 qs <- function(x){ # quote string function
-  str_pad(x, width=(length(x)+2), side='both', pad='"')
+ xx <- paste0('"', x, '"')
+ return(xx)
 }
 
-qs(x$title)
-
 make.markdown <- function(x){
-
   writeLines("---")
   writeLines(paste0("title: ", qs(x$title)))
   writeLines("collection: publications")
   writeLines(paste0('permalink: /publications/', x$pmid))
   writeLines('excerpt: "" ' )
   writeLines(paste0("date: ", x$pub.date))
-  writeLines(paste0("venue: ", x$journal))
-  writeLines(paste0("paperurl: 'https://kippjohnson.com/files/", x$pmid, ".pdf"))
+  writeLines(paste0("venue: ", qs(x$journal)))
+  writeLines(paste0("paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/", x$pmid, "'"))
   writeLines(paste0("citation: ",
                     "'",
                     x$authors.bold,
                     " ",
                     x$citation,
-                    ". PubMed ID: ",
+                    " PubMed ID: ",
                     x$pmid,
                     "'"))
   writeLines("---")
@@ -71,8 +62,6 @@ make.markdown <- function(x){
   writeLines(paste0("[Download PDF here]", "(https://kippjohnson.com/files/", x$pmid, ".pdf",")"))
 }
 
-make.markdown(x)
-
 print_markdown <- function(rec){
   x <- parse.record(rec)
   sink(paste0(website.home, "_publications/", x$pmid, ".md"))
@@ -80,4 +69,12 @@ print_markdown <- function(rec){
   sink()
 }
 
-print_markdown(dd)
+for(i in 1:nrow(infile)){ 
+  dd <- infile[i,]
+  print_markdown(dd)                                               
+}
+
+
+
+
+
