@@ -11,7 +11,7 @@ colnames(infile) <- as.character(.(Title,URL,Description,Details,ShortDetails,Re
 ## function to parse each record and spit out the appropriate data
 parse.record <- function(rec){
   x <- list()
-  x[["title"]] <- str_replace_all(rec$Title, pattern="\\.", replacement="")
+  x[["title"]] <- str_replace_all(rec$Title, pattern='[\\.|\\"]', replacement="")
   x[['url']] <- paste0("https://www.ncbi.nlm.nih.gov/", rec$URL)
   x[['authors']] <- dd$Description
   x[['citation']] <- dd$Details
@@ -27,8 +27,9 @@ parse.record <- function(rec){
   x[['authors.bold']] <- str_replace(x[['authors']], 
                                      pattern="Johnson KW", 
                                      replacement="<b>Johnson KW</b>")
-  
-  #x[['pmid']] <- str_replace_all(rec$Identifiers, "PMID\\:", "")
+
+  x[['title.bold']] <- paste0('<i>', x[['title']], '</i>')
+
   x[['pmid']] <- rec$EntrezUID
   
   return(x)
@@ -41,7 +42,7 @@ qs <- function(x){ # quote string function
 
 make.markdown <- function(x){
   writeLines("---")
-  writeLines(paste0("title: ", qs(x$title)))
+  writeLines(paste0("title: ", qs(x$title.bold)))
   writeLines("collection: publications")
   writeLines(paste0('permalink: /publications/', x$pmid))
   writeLines('excerpt: "" ' )
@@ -59,7 +60,9 @@ make.markdown <- function(x){
   writeLines("---")
   writeLines("")
   writeLines(paste0("[PubMed Link]", "(","https://www.ncbi.nlm.nih.gov/pubmed/",x$pmid,")"))
+  writeLines("")
   writeLines(paste0("[Download PDF here]", "(https://kippjohnson.com/files/", x$pmid, ".pdf",")"))
+  writeLines("")
 }
 
 print_markdown <- function(rec){

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kipp Johnson / Academic Website"
+title                    : "Kipp Johnson / Home"
 title_separator          : "-"
 name                     : &name "Kipp W. Johnson"
 description              : &description "MD/PhD Candidate, Icahn School of Medicine at Mount Sinai"
