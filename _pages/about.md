@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Research in precision cardiovascular medicine"
 excerpt: "This is the academic website for Kipp W Johnson"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Research in precision cardiovascular medicine
-======
+# Research in precision cardiovascular medicine
+# ======
 
 *This website is currently under construction!*
 
