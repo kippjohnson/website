@@ -171,7 +171,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false # changed from true 
     permalink: /:collection/:path/
   publications:
     output: true
@@ -180,7 +180,7 @@ collections:
     output: false # changed from true
     permalink: /:collection/:path/
   talks:
-    output: true # changed from true
+    output: false # changed from true
     permalink: /:collection/:path/
 
 
@@ -250,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
