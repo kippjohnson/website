@@ -13,8 +13,6 @@ Research in precision cardiovascular medicine
 ======
 --->
 
-*This website is currently under construction!*
-
 Hi! You have reached the website of Kipp W. Johnson.
 
 I am an MD/PhD candidate at the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/), a medical school on the Upper East Side of Manhattan, New York City. I currently work in the laboratory of Joel T. Dudley, the director of the [Institute for Next Generation Healthcare](http://www.nextgenhealthcare.org/).
