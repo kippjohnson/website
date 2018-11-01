@@ -12,10 +12,9 @@ redirect_from:
 Research in precision cardiovascular medicine
 ======
 --->
+I use data and machine intelligence to solve important problems in medicine and healthcare. I focus especially on chronic cardiovascular and metabolic disease.
 
-Hi! You have reached the website of Kipp W. Johnson.
+I work at the [Institute for Next Generation Healthcare](http://www.nextgenhealthcare.org/) under the supervision of [Joel Dudley, PhD](https://en.wikipedia.org/wiki/Joel_Dudley).
 
-I am an MD/PhD candidate at the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/), a medical school on the Upper East Side of Manhattan, New York City. I currently work in the laboratory of Joel T. Dudley, the director of the [Institute for Next Generation Healthcare](http://www.nextgenhealthcare.org/).
-
-My work focuses on the application of concepts drawn from statistics, machine learning, and computer science to enable better and more precise healthcare, especially in the context of cardiovascular disease. 
+Browse and download my [publications](https://kippjohnson.com/publications/) or use [email](kipp.william.johnson@gmail.com), [LinkedIn](https://www.linkedin.com/in/kippwjohnson/), or [Twitter](https://twitter.com/kippwjohnson) to get in touch with me.
 
