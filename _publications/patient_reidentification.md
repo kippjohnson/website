@@ -16,6 +16,6 @@ citation: <b>Johnson KW</b>*, De Freitas JK*, Glicksberg BS, Bobe JR, Dudley JT.
 I presented an overview of this work at the Mount Sinai Genetics and Genomic Sciences Work-In-Progress seminar. To download the slides (which may be easier to review than the paper, [please click here (Powerpoint presentation, .pptx format](https://kippjohnson.com/files/presentations/reidentification.pptx)).
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div class='altmetric-embed' data-badge-type="medium-donut" data-doi="XXXX" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
+<div class='altmetric-embed' data-badge-type="medium-donut" data-doi="XXXX" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
 
 
