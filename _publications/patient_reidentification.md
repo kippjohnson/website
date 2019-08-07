@@ -11,7 +11,7 @@ citation: <b>Johnson KW</b>*, De Freitas JK*, Glicksberg BS, Bobe JR, Dudley JT.
 
 <!--- [PubMed Link](https://www.ncbi.nlm.nih.gov/pubmed/30255805) i--->
 
-[Download PDF here](https://kippjohnson.com/files/patient_reidentification.pdf)
+* [Download PDF here](https://kippjohnson.com/files/patient_reidentification.pdf)
 
 I presented an overview of this work at the Mount Sinai Genetics and Genomic Sciences Work-In-Progress seminar. To download the slides (which may be easier to review than the paper, [please click here (Powerpoint presentation, .pptx format](https://kippjohnson.com/files/presentations/reidentification.pptx)).
 
