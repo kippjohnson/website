@@ -26,7 +26,7 @@ ol p {
 {% include base_path %}
 
 <ol>
-{% for post in site.publications  %}
+{% for post in site.publications reversed  %}
 <li>
 <p>{% include archive-single.html %}</p>
 </li>
