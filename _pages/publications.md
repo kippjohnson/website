@@ -27,7 +27,7 @@ ol p {
 
 <ol>
 <!-- {% for post in site.publications reversed  %} -->
-{% for post in site.publications}
+{% for post in site.publications %}
 <li>
 <p>{% include archive-single.html %}</p>
 </li>
