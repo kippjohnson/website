@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kippp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kippjohnson.com
+  * I am kippp (https://keybase.io/kippp) on keybase.
+  * I have a public key ASBBGwy60nktkTN-Q5zxTA9io6vTJdT4eNXWIwtzWp-pBgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ad36685143afdc798f7ebc23705b18f796d06e123b946387a7da229c757635700a",
+      "host": "keybase.io",
+      "kid": "0120411b0cbad2792d91337e439cf14c0f62a3abd325d4f878d5d6230b735a9fa9060a",
+      "uid": "9372f6262f29b2a9a4d28b45d8f69519",
+      "username": "kippp"
+    },
+    "merkle_root": {
+      "ctime": 1578437055,
+      "hash": "e8004192a444480085d40edf797dff6579cf2e113bb6df3ba6b28881a18e5e302ef4cfccdfbac1fd3608bd9d60077bc6fd85f7437c69463b5839616c4aae4d57",
+      "hash_meta": "26ebcfc7d29d18003880e36f6609841f992b787f96e69967277df8c23b6aedd0",
+      "seqno": 14129728
+    },
+    "service": {
+      "entropy": "5rcQNALh23qp1CrPfckdjpHb",
+      "hostname": "kippjohnson.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1578437062,
+  "expire_in": 504576000,
+  "prev": "c379e5784058eb97334e537bb08b23fdf1de506b31506b4a346335995f3cf4b9",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQRsMutJ5LZEzfkOc8UwPYqOr0yXU+HjV1iMLc1qfqQYKp3BheWxvYWTESpcCDcQgw3nleEBY65czTlN7sIsj/fHeUGsxUGtKNGM1mV889LnEIOTbV0t1csPtv8GJG7meMrC500YquOcs/GJe6ELWcRoVAgHCo3NpZ8RAPa/+bsMwOss7oW8QVvQD+CyrCy0vDwEQ/FVbhmw+CdZe2Lcp00SyAZH1rn7ryCmCNBMlBwbb+is+1sQaoGRXBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJZsIxjDI5iFUDI8v15atuCouldZJR6sZow2jr7iPPzQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kippp
+
+==================================================================
