@@ -14,11 +14,9 @@ redirect_from:
 ======
 --->
 
-I use data and machine learning to solve important problems in medicine and healthcare. 
+I am a physician in the [physician-scientist training program (PSTP)](https://www.medicine.northwestern.edu/education/residents/residency-experience/pstp.html) in the Department of Medicine at Northwestern University.
 
-My work focuses especially on chronic cardiovascular and metabolic disease. 
+I use data and statistical learning to solve problems in medicine and healthcare. My work focuses especially on cardiovascular and metabolic disease. 
 
-Currently I am employed at [Tempus Labs](https://www.tempus.com/). 
-
-Previously I worked at the [Institute for Next Generation Healthcare](http://www.nextgenhealthcare.org/) at the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/) and earned my PhD in the laboratory of [Joel Dudley, PhD](https://en.wikipedia.org/wiki/Joel_Dudley). 
+Previously I was  employed at [Tempus Labs](https://www.tempus.com/). Before that, I earned my MD and PhD at the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/). I completed my PhD under the supervision of [Joel Dudley, PhD](https://en.wikipedia.org/wiki/Joel_Dudley). 
 
